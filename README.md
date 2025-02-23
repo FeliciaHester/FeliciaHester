@@ -3,5 +3,3 @@
 - 🔬 Connecting data dots using Python & Excel formulas.
 - 💡 Telling the data story using logic & creativity.
  
-
-test
